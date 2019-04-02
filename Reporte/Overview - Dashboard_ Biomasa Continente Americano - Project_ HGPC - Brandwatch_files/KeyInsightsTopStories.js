@@ -1,0 +1,1 @@
+define(["src/components/keyinsights/helpers/constants","src/components/keyinsights/views/KeyInsightsPanelView","mustache!src/components/keyinsights/templates/keyInsightsList"],function(constants,KeyInsightsPanelView,keyInsightsListTemplate){"use strict";return KeyInsightsPanelView.extend({type:constants.topStories,template:keyInsightsListTemplate})});
