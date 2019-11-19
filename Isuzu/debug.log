@@ -1,0 +1,14 @@
+[0814/163112:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0814/163112:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0814/163112:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0814/163113:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[0814/163113:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0814/164609:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0814/164609:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0814/164610:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0814/164611:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0816/155442:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0816/155442:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0816/155443:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0816/155444:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[0816/155444:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
