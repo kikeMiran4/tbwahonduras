@@ -4,14 +4,6 @@
 //Edge symbol: 'stage'
 (function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",20000,function(sym,e){sym.play(0);});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_18}","click",function(sym,e){window.open("https://www.pizzahutonline.hn/","_blank");});
-//Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_17}","click",function(sym,e){window.open("https://wa.me/31790396","_blank");});
-//Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_16}","click",function(sym,e){window.open(tel:600123456,"_blank");});
-//Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_15}","click",function(sym,e){});
-//Edge binding end
 })("stage");
 //Edge symbol end:'stage'
 
