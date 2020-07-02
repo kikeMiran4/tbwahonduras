@@ -4,7 +4,7 @@
 //Edge symbol: 'stage'
 (function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",20000,function(sym,e){sym.play(0);});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${Rectangle}","click",function(sym,e){window.open("https://wa.me/25455000","_blank");});
+Symbol.bindElementAction(compId,symbolName,"${Rectangle}","click",function(sym,e){window.open("https://wa.me/+504 25455000","_blank");});
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${Rectangle2}","click",function(sym,e){window.open("tel:*5000","_blank");});
 //Edge binding end
