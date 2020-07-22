@@ -1,1 +1,0 @@
-define(["src/components/keyinsights/helpers/constants","src/components/keyinsights/views/KeyInsightsPanelView","mustache!src/components/keyinsights/templates/keyInsightsComparison"],function(constants,KeyInsightsPanelView,keyInsightsComparisonTemplate){"use strict";return KeyInsightsPanelView.extend({type:constants.uniqueImages,template:keyInsightsComparisonTemplate})});

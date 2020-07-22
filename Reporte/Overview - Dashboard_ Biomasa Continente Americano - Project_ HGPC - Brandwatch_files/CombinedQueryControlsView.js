@@ -1,1 +1,0 @@
-define(["src/views/ControlsView","src/controls/views/ControlsViewCombinedQueryInputs"],function(ControlsView,ControlsViewCombinedQueryInputs){"use strict";return ControlsView.extend({},{QueryInputsClass:ControlsViewCombinedQueryInputs})});

@@ -1,1 +1,0 @@
-define(function(){"use strict";return{totalMentions:"totalMentions",uniqueAuthors:"uniqueAuthors",trendingTopics:"trendingTopics",topStories:"topStories",uniqueImages:"uniqueImages",topHashtags:"topHashtags"}});
