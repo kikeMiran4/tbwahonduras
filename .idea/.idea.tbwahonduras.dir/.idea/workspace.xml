@@ -13,9 +13,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Coors/index.html" />
         <option value="$PROJECT_DIR$/Coors/Chill/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/SegurosContinental/index.html" />
+        <option value="$PROJECT_DIR$/SegurosContinental/Telemed/index.html" />
       </list>
     </option>
   </component>
@@ -37,13 +39,14 @@
       <option name="presentableId" value="Default" />
       <updated>1601402308887</updated>
       <workItem from="1601402315575" duration="152000" />
+      <workItem from="1601418252320" duration="303000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
