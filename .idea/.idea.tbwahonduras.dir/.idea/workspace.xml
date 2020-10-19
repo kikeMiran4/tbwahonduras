@@ -19,9 +19,11 @@
         <option value="$PROJECT_DIR$/SegurosContinental/Telemed/index.html" />
         <option value="$PROJECT_DIR$/Cargill/index.html" />
         <option value="$PROJECT_DIR$/Cargill/Hugo/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/AMP/index.html" />
         <option value="$PROJECT_DIR$/AMP/SobreRuedas/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Pepsi/index.html" />
+        <option value="$PROJECT_DIR$/Pepsi/Destapon/index.html" />
       </list>
     </option>
   </component>
@@ -47,6 +49,7 @@
       <workItem from="1601587108733" duration="747000" />
       <workItem from="1602460527672" duration="33000" />
       <workItem from="1602684669614" duration="751000" />
+      <workItem from="1603148311214" duration="115000" />
     </task>
     <servers />
   </component>
