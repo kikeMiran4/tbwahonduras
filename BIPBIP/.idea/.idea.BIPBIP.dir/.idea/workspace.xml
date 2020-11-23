@@ -32,6 +32,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/BipWeek/index.html" />
       </list>
     </option>
   </component>
@@ -55,6 +56,7 @@
       <updated>1603300432296</updated>
       <workItem from="1603300436182" duration="43000" />
       <workItem from="1605645899071" duration="31000" />
+      <workItem from="1606163672329" duration="136000" />
     </task>
     <servers />
   </component>
