@@ -31,9 +31,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/DestapaConLink2/index.html" />
         <option value="$PROJECT_DIR$/DestapaConLink2/DestapaLink1/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/DestapaConLink360/index.html" />
       </list>
     </option>
   </component>
@@ -57,6 +58,7 @@
       <updated>1604683733887</updated>
       <workItem from="1604683739470" duration="25000" />
       <workItem from="1605803391434" duration="142000" />
+      <workItem from="1606234667719" duration="74000" />
     </task>
     <servers />
   </component>
